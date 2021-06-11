@@ -24,7 +24,7 @@ php artisan serve
 
 ## Photo 📷
 
-![Esta es una imagen de login](https://ejemplo.com/imagen.jpg)
+![Esta es una imagen de login](https://github.com/luisangel2895/DesingFlowers/blob/1b562e47056199234918ea3d52c559d6f3418f6a/images-markdown/Screenshot_1.png)
 
 ## License 📃
 
